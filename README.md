@@ -3,4 +3,4 @@
 - 🌱 I’m currently Pursuing Btech CSE. I'm currently Per Final Year student. 
 - 💞️ I’m looking to collaborate on MERN Project & Problem Solving
 - 📫 How to reach me -
-prashant-cse.netlify.app
+https://prashant-cse.netlify.app/
